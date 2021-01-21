@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Hello world </title>
+ </head>
+ <body>
+    <header>
+      <img src= link/>
+      <nav>
+        <ul id= name of list>
+          <li>list 1/li>
+        </ul>
+          <li>list 2/li>
+        </ul>
+          <li>list 3>/li>
+        </ul>
+          <li>list 4>/li>
+        </ul>
+      </nav>
+     </header>
+     <main>
+       <h1> first paragarph or first words</h1>
+       <section>
+         <h2> second Paragraph or second words</h2>
+         <p> first paragraph</p>
+         </section>
+        </main>
+        <footer>
+          <small> copyrights 2021 code Kenneth Modesto</small>
+         </footer>
+        </body>
+       </html>
